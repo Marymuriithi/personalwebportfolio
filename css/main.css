@@ -1,10 +1,10 @@
 body{
-	background-image:url("../images/laptop6.png");
+	/*background-image:url("../images/laptop6.png");*/
 	background-repeat: no-repeat;
 	background-size: cover;
 	height:100%;
 	width:100%;
-	background-color:black; 
+	background-color:cyan; 
 
 }
 
