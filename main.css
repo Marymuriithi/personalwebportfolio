@@ -1,0 +1,142 @@
+body{
+	background-color: olive;
+
+}
+
+.container{
+	background-color:#022D36;
+	text-align: center;
+	color: white;
+	height: 140px;
+    position: absolute;
+    width: 100%;
+    font-family: sans-serif;
+    margin-right: 2px;
+    margin-left: 3px;
+    
+}
+.about{
+	background-color: white;
+	height: 350px;
+	width: 800px;
+	margin-left: 250px;
+	margin-bottom: 40px;
+	margin-top:60;
+	padding:40px;
+
+}
+.about p{
+	color: black;
+	text-align: left;
+	padding-top: 60px;
+	margin-left: 360px;
+	position: relative;
+	bottom: 50px;
+
+}
+.about img{
+	height: 50%;
+	width: 40%;
+	position: relative;
+	bottom: 300px;
+	margin-right: 490px;
+}
+.content{
+	background-color: green;
+	height: 50px;
+	width: 800px;
+	position: relative;
+	bottom: 630px;
+
+}
+.content p{
+	color: white;
+	font-size:30px;
+}
+.projects{
+	background-color: white;
+	height: 500px;
+	width: 880px;
+	margin-left: 248px;
+	position: relative;
+	bottom: 30px;
+}
+.mary{
+	background-color: green;
+	height: 50px;
+	width: 800px;
+	margin-left: 40px;
+	padding-bottom: 5px;
+
+}
+.mary img{
+	height: 40%;
+	width: 40%;
+	float: left;
+	margin-right: 40px;
+	margin-left: 1px;
+	padding: 10px;
+	padding-left: 7px;
+
+}
+.mary img p{
+	color:black;
+	font-size: 20px;
+}
+.mary img p{
+	height: 40%;
+	width: 40%;
+	float: left;
+	margin-right: 40px;
+	margin-left: 1px;
+	padding: 10px;
+
+}
+.mary p{
+	color: white;
+	font-size: 30px;
+}
+.skills{
+	background-color: white;
+	height: 450px;
+	width: 880px;
+	margin-left: 248px;
+	position: relative;
+	bottom: 50px;
+
+}
+.skills p{
+	color: black;
+	font-size: 30px;
+
+}
+.sub{
+	background-color: green;
+	height: 50px;
+	width: 800px;
+	margin-left: 45px;
+	position: relative;
+	bottom: 334px;
+
+
+}
+.sub p{
+	color:white;
+	font-size: 30px;
+	text-align: center;
+}
+.footer{
+	background-color: #2C3E4C;
+	height: 200px;
+	width: auto;
+	margin-left: 2px;
+	margin-bottom: 2px;
+	position: relative;
+	bottom: 42px;
+	margin-right: 2px;
+}
+.footer p{
+	color: yellow;
+	font-size: 17px;
+	padding: 10px;
+}
